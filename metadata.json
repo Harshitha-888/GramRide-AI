@@ -1,0 +1,6 @@
+{
+  "name": "GramRide AI",
+  "description": "Intelligent Rural Student Mobility and Transportation Network coordinating government buses, village mobility pools, predictive shortage intelligence, and guardian-verified backup transport.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
